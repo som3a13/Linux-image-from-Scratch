@@ -1,4 +1,3 @@
-    ![1712881686921](image/README/1712881686921.png)
 
 # Build Your Own Embedded Linux System from Scratch
 

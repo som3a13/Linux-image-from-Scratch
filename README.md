@@ -1,4 +1,6 @@
 
+    ![1712882017718](image/README/1712882017718.png)
+
 # Build Your Own Embedded Linux System from Scratch
 
 Welcome to the Build Your Own Embedded Linux System from Scratch project! This repository guides you through the process of building a custom embedded Linux system using Crosstool-NG, U-Boot, the Linux kernel, Device Tree Blobs (DTB), BusyBox, and an init process.

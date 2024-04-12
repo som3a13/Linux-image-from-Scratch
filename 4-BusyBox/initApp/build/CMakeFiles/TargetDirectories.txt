@@ -1,0 +1,3 @@
+/home/som3a133/Desktop/EmbeddedLinux/Qemu/initApp/build/CMakeFiles/TestDeamon.dir
+/home/som3a133/Desktop/EmbeddedLinux/Qemu/initApp/build/CMakeFiles/edit_cache.dir
+/home/som3a133/Desktop/EmbeddedLinux/Qemu/initApp/build/CMakeFiles/rebuild_cache.dir

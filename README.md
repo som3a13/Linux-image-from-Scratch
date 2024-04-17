@@ -1,4 +1,3 @@
-
 ![1712882215840](image/README/1712882215840.png)
 
 # Build Your Own Embedded Linux System from Scratch
@@ -37,4 +36,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-Special thanks to Eng/FadyKhalil @ [GitHub](https://github.com/FadyKhalil)
+Special thanks to Eng/FadyKhalil @ [GitHub](https://github.com/FadyKhalil) & Eng/Motasem EL sayed [GitHub](https://github.com/Moatasem-Elsayed)@

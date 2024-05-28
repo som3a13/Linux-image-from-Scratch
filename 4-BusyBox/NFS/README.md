@@ -58,15 +58,20 @@ setenv bootargs console=ttyAMA0 root=/dev/nfs ip=10.204.25.177:::::eth0 nfsroot=
 **Try troubleshooting with nfs service and it logs**
 
 ```
-systemctl status nfs-server-kernel
-systemctl restart nfs-server-kernel
+systemctl status nfs-kernel-server
+systemctl restart nfs-kernel-server
 
 # check system logs
 
-cat /etc/var/log/syslog | grep NFS
+cat /var/log/syslog | grep NFS
 #check for any request happens from uboot
-cat /etc/var/log/syslog | grep <IP>
+cat /var/log/syslog | grep <IP>
+
+#if blocked by firewall you can disable firewall
+sudo ufw disable
 
 ```
 
 ![1712716463633](image/README/1712716463633.png)
+
+![1716857642493](image/README/1716857642493.png)

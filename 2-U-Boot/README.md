@@ -24,7 +24,7 @@ ls configs/
 ```
 export CROSS_COMPILE=<Path To the Compiler>/arm-cortexa9_neon-linux-musleabihf-
 export ARCH=arm
-make qemu_arm_vexpress_defconfig
+make vexpress_ca9x4_defconfig
 ```
 
 ## for Raspberry pi 4 - 64

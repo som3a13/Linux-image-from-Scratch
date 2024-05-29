@@ -12,7 +12,7 @@ cd linux
 
 export CROSS_COMPILE=<Path To the Compiler>/arm-cortexa9_neon-linux-musleabihf-
 export ARCH=arm
-make qemu_arm_vexpress_defconfig
+make vexpress_defconfig
 ```
 
 **for Raspberry pi**
@@ -55,9 +55,9 @@ cp linux/arch/arm/boot/zImage /srv/tftp/
 cp linux/arch/arm/boot/dts/*-ca9.dtb /srv/tftp/
 ```
 
-**discussed that in U-boot** 
+**discussed that in U-boot**
 
-# 3. Start Kernel 
+# 3. Start Kernel
 
 ```
 bootz $kernel_addr_r - $fdt_addr_r

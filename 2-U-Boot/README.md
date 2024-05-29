@@ -118,6 +118,8 @@ export DISK=/dev/<sd-blk>
 #it should output /dev/loop28 as example . with 2 parts
 ```
 
+![1717011666373](image/README/1717011666373.png)
+
 ### Format Partition Table
 
 first partition is **FAT**
